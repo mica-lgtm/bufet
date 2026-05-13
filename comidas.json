@@ -1,0 +1,164 @@
+[
+  {
+    "id": "pizza-completa",
+    "nombre": "Pizza Completa",
+    "descripcion": "Muzzarella, tomate y jamón. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/pizza.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "empanadas-rotiseras",
+    "nombre": "Empanadas Rotiseras",
+    "descripcion": "Carne o pollo. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/empanadas.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "bandeja-papas-fritas",
+    "nombre": "Bandeja de Papas Fritas",
+    "descripcion": "Porción de papas fritas crocantes. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/papas-fritas.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "bandeja-grande-papas",
+    "nombre": "Bandeja Grande de Papas",
+    "descripcion": "Con cheddar y salchichas. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/papas-cheddar.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "choripan",
+    "nombre": "Choripán",
+    "descripcion": "Chimichurri, criolla, lechuga y tomate. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/choripan.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "hamburguesa",
+    "nombre": "Hamburguesa",
+    "descripcion": "Lechuga, tomate, criolla y cheddar. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/hamburguesa.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "sandwich-milanesa",
+    "nombre": "Sándwich de Milanesa",
+    "descripcion": "Pan casero, lechuga, tomate, criolla y cheddar. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/sandwich-milanesa.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "plato-pastas",
+    "nombre": "Plato de Pastas",
+    "descripcion": "Tallarines o ravioles. Salsas: bolognesa, blanca o mixta. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/pastas.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "menu-infantil",
+    "nombre": "Menú Infantil",
+    "descripcion": "Patitas de pollo con papas fritas. Incluye 1 vasito de bebida.",
+    "precio": 0,
+    "imagen": "/images/menu-infantil.jpg",
+    "disponible": true,
+    "categoria": "Almuerzo"
+  },
+  {
+    "id": "cafe",
+    "nombre": "Café",
+    "descripcion": "Café solo, corto o largo.",
+    "precio": 0,
+    "imagen": "/images/cafe.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "cafe-con-leche",
+    "nombre": "Café con Leche",
+    "descripcion": "Café con leche caliente.",
+    "precio": 0,
+    "imagen": "/images/cafe-con-leche.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "te",
+    "nombre": "Té",
+    "descripcion": "Té a elección.",
+    "precio": 0,
+    "imagen": "/images/te.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "chocolate-caliente",
+    "nombre": "Chocolate Caliente",
+    "descripcion": "Chocolate caliente cremoso.",
+    "precio": 0,
+    "imagen": "/images/chocolate.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "medialunas",
+    "nombre": "Medialunas",
+    "descripcion": "Medialunas de manteca.",
+    "precio": 0,
+    "imagen": "/images/medialunas.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "pasta-frola",
+    "nombre": "Pasta Frola",
+    "descripcion": "Tarta de membrillo casera.",
+    "precio": 0,
+    "imagen": "/images/pasta-frola.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "torta-invertida-manzana",
+    "nombre": "Torta Invertida de Manzana",
+    "descripcion": "Torta casera de manzana caramelizada.",
+    "precio": 0,
+    "imagen": "/images/torta-manzana.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "bizcochuelo",
+    "nombre": "Bizcochuelo",
+    "descripcion": "Bizcochuelo esponjoso casero.",
+    "precio": 0,
+    "imagen": "/images/bizcochuelo.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  },
+  {
+    "id": "pastelitos",
+    "nombre": "Pastelitos",
+    "descripcion": "Pastelitos criollos fritos con membrillo o batata.",
+    "precio": 0,
+    "imagen": "/images/pastelitos.jpg",
+    "disponible": true,
+    "categoria": "Desayuno y Merienda"
+  }
+]
